@@ -1,0 +1,57 @@
+
+
+/* ヘッダー */
+.navnakami{
+  color: red;
+  font-family: "Modern Antiqua","Noto Sans JP",serif;
+  background-color: aquamarine;
+}
+
+/* フッター */
+#footer{
+  text-align: center;
+  font-size: 12px;
+}
+
+/* 共通 */
+h2{
+  font-family: "Modern Antiqua","Noto Sans JP",serif;
+}
+
+img{
+	max-width: 100%; 
+	height: auto;
+}
+
+section{
+  clear: both;
+}
+
+section h2{
+	width: 60%;
+	margin: 70px auto;
+	font-size: 22px;
+	font-weight:normal;
+	text-align: center;
+}
+
+section h2 span {
+	padding-bottom: 20px;
+	border-bottom: 3px solid #000;
+}
+
+.inner{
+	width: 80%;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
+#sec03 .inner, #sec04 .inner{
+	border-bottom: 1px solid #a0a0a0;
+}
+
+.innerS{
+	width: 60%;
+	margin: 0 auto;
+	padding-bottom: 80px;
+}
